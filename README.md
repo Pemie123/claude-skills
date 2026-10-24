@@ -1,1 +1,1 @@
-# cluade-skills
+# claude skills
